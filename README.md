@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E91E90&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Kritika+Jha;Full-Stack+Developer+%7C+Data+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E91E90&center=true&vCenter=true&random=false&width=750&lines=Hey%2C+I'm+Kritika+Jha;Full-Stack+Developer+%7C+MERN+Stack+%7C+Next.js;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ### About Me
 
-Final-year **B.Tech CSE** student at **GGSIPU, New Delhi** — I love turning ideas into clean, functional web apps. From employee dashboards to AI-powered tools, I enjoy building products that solve real problems.
+Final-year **B.Tech CSE** student at **GGSIPU, New Delhi**. I build full-stack web apps — from designing responsive frontends in **React/Next.js** to writing REST APIs in **Node.js/Express** and managing data with **MongoDB**.
 
-- Currently exploring **full-stack development & data analytics**
-- Built dashboards with **custom virtualization, canvas signatures & real-time data**
-- Experience with **AI/LLM integration** and **financial data analysis**
-- Always learning — currently diving deeper into **TypeScript & Next.js**
-- I believe in writing **clean code** and shipping **working products**
+- Comfortable working across the entire stack — frontend, backend, database, deployment
+- Built and deployed multiple projects end-to-end using **MERN stack** and **Next.js**
+- Hands-on experience with **JWT authentication, REST APIs, real-time features** and **responsive UI**
+- Currently improving my skills in **TypeScript** and exploring **AI/LLM integrations**
+- Actively looking for **full-time SDE roles** — open to building things that matter
 
 ---
 
@@ -47,13 +47,6 @@ Final-year **B.Tech CSE** student at **GGSIPU, New Delhi** — I love turning id
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 **Tools & Platforms**
 
@@ -85,7 +78,7 @@ Final-year **B.Tech CSE** student at **GGSIPU, New Delhi** — I love turning id
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kritu1418&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E90&icon_color=E91E90&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritu1418&theme=radical&hide_border=true&background=0D1117&ring=E91E90&fire=E91E90&currStreakLabel=E91E90" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Kritu1418&theme=radical&hide_border=true&background=0D1117&ring=E91E90&fire=E91E90&currStreakLabel=E91E90" width="48%" />
 </p>
 
 <p align="center">

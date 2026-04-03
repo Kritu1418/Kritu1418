@@ -77,28 +77,7 @@ Final-year **B.Tech CSE** student at **GGSIPU, New Delhi**. I build full-stack w
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kritu1418&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E90&icon_color=E91E90&text_color=C9D1D9" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Kritu1418&theme=radical&hide_border=true&background=0D1117&ring=E91E90&fire=E91E90&currStreakLabel=E91E90" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritu1418&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E90&text_color=C9D1D9" width="40%" />
-</p>
-
----
-
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kritu1418&theme=discord&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kritu1418&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E91E90&line=E91E90&point=FFFFFF" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Kritu1418&theme=radical&hide_border=true&background=0D1117&ring=E91E90&fire=E91E90&currStreakLabel=E91E90" width="60%" />
 </p>
 
 ---

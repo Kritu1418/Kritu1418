@@ -1,156 +1,120 @@
-<!-- ══════════════════ HERO ══════════════════ -->
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Kritika Jha — Software Engineer" />
-</p>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,60:15305C,100:1F6FEB&height=150&section=header&text=Kritika%20Jha&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Urban%20Company%20%C2%B7%20Bangalore&descAlignY=64&descSize=15" />
 
-<p align="center">
-  <a href="https://visionary-malabi-08c5dd.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-05050C?style=for-the-badge&labelColor=05050C&color=8B5CF6&logo=googlechrome&logoColor=8B5CF6" />
-  </a>
-  <a href="https://www.linkedin.com/in/kritika-jha/">
-    <img src="https://img.shields.io/badge/LINKEDIN-05050C?style=for-the-badge&labelColor=05050C&color=22D3EE&logo=linkedin&logoColor=22D3EE" />
-  </a>
-  <a href="mailto:jhakritika957@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-05050C?style=for-the-badge&labelColor=05050C&color=F472B6&logo=gmail&logoColor=F472B6" />
-  </a>
-  <a href="https://leetcode.com/u/Kritu1418/">
-    <img src="https://img.shields.io/badge/LEETCODE-05050C?style=for-the-badge&labelColor=05050C&color=A78BFA&logo=leetcode&logoColor=A78BFA" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Kritu1418&style=for-the-badge&color=8B5CF6&label=VIEWS" />
-</p>
+<div align="center">
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer+1+at+Urban+Company;Full-stack+%E2%80%94+React%2C+Node.js%2C+TypeScript%2C+MongoDB;Building+AI+and+LLM-powered+products;650%2B+DSA+problems+solved" alt="Kritika Jha" />
 
-<!-- ══════════════════ ABOUT ══════════════════ -->
+<br/><br/>
+
+<a href="https://visionary-malabi-08c5dd.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kritika-jha/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jhakritika957@gmail.com">
+  <img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Kritu1418/">
+  <img src="https://img.shields.io/badge/LeetCode-24292F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineer%20roles-2DA44E?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Based%20in-Bangalore,%20India-58A6FF?style=flat-square&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=Kritu1418&style=flat-square&color=1F6FEB&labelColor=0D1117&label=Profile+views" />
+
+</div>
+
+---
+
+## About
+
+Software Engineer with experience building **scalable full-stack applications** and **enterprise fintech solutions**.
+Currently at **Urban Company**, working on the customer booking journey for the Video Consultation platform —
+React Native, TypeScript, and a good deal of untangling distributed state. Previously built regulatory risk
+dashboards for banking clients at **Acies**. Strong foundation in DSA and System Design, with a growing focus on
+AI/LLM integration.
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="50%" valign="top">
 
-### `01` &nbsp;whoami
+**Currently**
 
-```ts
-const kritika = {
-  role:     "Software Engineer 1",
-  company:  "Urban Company",
-  city:     "Bangalore, India",
-  degree:   "B.Tech CSE · GGSIPU · CGPA 8.0",
-
-  building: ["React Native", "TypeScript", "Microservices"],
-  shipped:  ["Fintech dashboards", "AI assessment tools"],
-  exploring:["System Design", "Distributed Systems"],
-
-  leetcode: { solved: "650+", peak: 1466 },
-  mantra:   "Code it. Ship it. Improve it.",
-};
-```
+- Building the **Video Consultation** booking flow at Urban Company
+- Deepening **System Design** and distributed systems fundamentals
+- Shipping side projects with **Groq, OpenAI and Gemini** APIs
 
 </td>
-<td width="46%" valign="top">
+<td width="50%" valign="top">
 
-### `→` &nbsp;highlights
+**At a glance**
 
-<img src="https://img.shields.io/badge/⚡-7%20steps%20→%203-05050C?style=flat-square&labelColor=8B5CF6" /> &nbsp;booking flow simplified
-
-<img src="https://img.shields.io/badge/🏦-LCR%20%2F%20NSFR-05050C?style=flat-square&labelColor=22D3EE" /> &nbsp;risk dashboards for banks
-
-<img src="https://img.shields.io/badge/🚀-New%20category-05050C?style=flat-square&labelColor=F472B6" /> &nbsp;launched design → prod
-
-<img src="https://img.shields.io/badge/🧩-Fault%20tolerant-05050C?style=flat-square&labelColor=A78BFA" /> &nbsp;state sync through partial failures
-
-<img src="https://img.shields.io/badge/🏆-Top%205-05050C?style=flat-square&labelColor=34D399" /> &nbsp;Google CodeClash, 150+ teams
+| | |
+|---|---|
+| Role | Software Engineer 1, Urban Company |
+| Education | B.Tech CSE, GGSIPU — CGPA 8.0 |
+| LeetCode | 650+ solved · 1466 peak rating |
+| Core stack | React · Node.js · TypeScript · MongoDB |
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" />
+---
 
-<!-- ══════════════════ EXPERIENCE ══════════════════ -->
+## Experience
 
-### `02` &nbsp;experience
+### Software Engineer 1 · Urban Company
+<img src="https://img.shields.io/badge/Jun%202026%20—%20Present-1F6FEB?style=flat-square&labelColor=0D1117" /> &nbsp; <img src="https://img.shields.io/badge/Bangalore,%20India-24292F?style=flat-square" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Developed the customer booking journey for the **Video Consultation** platform using **React Native and TypeScript**, integrating with multiple backend microservices via REST APIs
+- **Reduced booking flow complexity from 7 steps to 3** by redesigning state management and API orchestration, while maintaining data consistency across distributed microservices
+- Collaborated with backend and product teams to design and launch a **new platform category**, contributing to end-to-end feature delivery from design to production rollout
+- Architected **state synchronisation logic** across distributed microservices under ambiguous requirements, keeping booking data consistent even during partial API failures
 
-<img src="https://img.shields.io/badge/●%20NOW-05050C?style=flat-square&labelColor=34D399" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jun%202026%20—%20Present-05050C?style=flat-square&labelColor=1E1B3A&color=C4B5FD" />
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,git&theme=dark" height="34" />
 
-## Urban Company
-**Software Engineer 1** &nbsp;·&nbsp; <sub>Bangalore, India</sub>
+### Software Engineering Intern · Acies
+<img src="https://img.shields.io/badge/Jan%202026%20—%20Jun%202026-58A6FF?style=flat-square&labelColor=0D1117" /> &nbsp; <img src="https://img.shields.io/badge/Goa,%20India-24292F?style=flat-square" />
 
-Building the customer booking journey for the **Video Consultation** platform.
-
-- **React Native + TypeScript** frontend wired into multiple backend microservices over REST
-- Cut booking complexity from **7 steps → 3** by redesigning state management and API orchestration
-- Launched a **new platform category** with backend + product, design through production rollout
-- Architected **state synchronisation** that holds booking data consistent through partial API failures
-
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,git&theme=dark" height="38" />
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/●%20PAST-05050C?style=flat-square&labelColor=8B5CF6" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jan%202026%20—%20Jun%202026-05050C?style=flat-square&labelColor=1E1B3A&color=C4B5FD" />
-
-## Acies
-**Software Engineering Intern** &nbsp;·&nbsp; <sub>Goa, India</sub>
-
-Enterprise fintech — regulatory risk reporting for banking clients.
-
-- **React.js** components rendering **LCR / NSFR** risk metrics as clean, filterable dashboards
-- **REST APIs** in Node.js + Express serving risk-reporting data
+- Built **React.js** components to display regulatory risk metrics such as **LCR and NSFR** for banking clients, transforming raw financial data into clean, filterable dashboard views
+- Developed **REST APIs** using Node.js and Express.js to fetch and serve risk-reporting data
 - Integrated frontend applications with backend data-processing workflows
-- Turned raw financial data into views analysts could actually act on
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="38" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="34" />
 
-</td>
-</tr>
-</table>
+---
 
-<img src="./assets/divider.svg" width="100%" />
-
-<!-- ══════════════════ PROJECTS ══════════════════ -->
-
-### `03` &nbsp;projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/AI%20%2F%20LLM-05050C?style=flat-square&labelColor=22D3EE" />
+### Beat Claude
+<img src="https://img.shields.io/badge/AI%20Tooling-1F6FEB?style=flat-square&labelColor=0D1117" />
 
-## 🤖 Beat Claude
-<sub>**AI HIRING COMPANION**</sub>
+An **AI hiring companion** that parses job descriptions and generates role-based assessments — 12 dynamic questions per role via the **Groq API (LLaMA 3.3 70B)**. Candidate interface includes a live timer, question navigation and auto-save.
 
-Parses a job description and generates a role-based assessment — **12 dynamic questions** per role through **Groq (LLaMA 3.3 70B)**. Candidate interface ships with a live timer, question navigation and auto-save.
+<sub>`React` · `Node.js` · `Groq API` · `LLaMA 3.3 70B`</sub>
 
-<img src="https://img.shields.io/badge/React-05050C?style=flat-square&logo=react&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Node.js-05050C?style=flat-square&logo=nodedotjs&logoColor=34D399" />
-<img src="https://img.shields.io/badge/Groq-05050C?style=flat-square&logo=lightning&logoColor=F472B6" />
-
-**[⟶ Code](https://github.com/Kritu1418/beat-claude)**
+[**View repository →**](https://github.com/Kritu1418/beat-claude)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/AI%20%2F%20LLM-05050C?style=flat-square&labelColor=22D3EE" />
+### NextFlow
+<img src="https://img.shields.io/badge/AI%20Tooling-1F6FEB?style=flat-square&labelColor=0D1117" />
 
-## ⚙️ NextFlow
-<sub>**VISUAL AI WORKFLOW BUILDER**</sub>
+A **visual AI workflow builder** with a node-based canvas editor — drag nodes, connect them and run the graph. Built on the Next.js app router with a fully typed component architecture.
 
-Node-based canvas editor for composing AI workflows — drag nodes, connect them, run the graph. Fully typed component architecture on the Next.js app router.
+<sub>`Next.js` · `TypeScript` · `React Flow`</sub>
 
-<img src="https://img.shields.io/badge/Next.js-05050C?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-05050C?style=flat-square&logo=typescript&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/React%20Flow-05050C?style=flat-square&logo=react&logoColor=F472B6" />
-
-**[⟶ Code](https://github.com/Kritu1418/nextflow)** &nbsp;·&nbsp; **[Live](https://nextflow-beta.vercel.app)**
+[**View repository →**](https://github.com/Kritu1418/nextflow) &nbsp;·&nbsp; [**Live demo**](https://nextflow-beta.vercel.app)
 
 </td>
 </tr>
@@ -158,34 +122,26 @@ Node-based canvas editor for composing AI workflows — drag nodes, connect them
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/DASHBOARDS-05050C?style=flat-square&labelColor=8B5CF6" />
+### PROMPTPIA
+<img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=flat-square&labelColor=0D1117" />
 
-## 📊 Employee Insight
-<sub>**HR ANALYTICS SUITE**</sub>
+A **prompt-sharing platform** for the AI community — create, share, edit and discover prompts. **Google OAuth** via NextAuth securing 100% of protected routes, with complete CRUD backed by MongoDB.
 
-Interactive HR dashboard with **custom list virtualization** for large datasets, in-browser **camera capture** and a **canvas signature** pad — tuned to stay smooth across thousands of rows.
+<sub>`Next.js 14` · `MongoDB` · `NextAuth` · `Tailwind CSS`</sub>
 
-<img src="https://img.shields.io/badge/React-05050C?style=flat-square&logo=react&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Vite-05050C?style=flat-square&logo=vite&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Tailwind-05050C?style=flat-square&logo=tailwindcss&logoColor=22D3EE" />
-
-**[⟶ Code](https://github.com/Kritu1418/employee-insight-dashboards)**
+[**View repository →**](https://github.com/Kritu1418/PROMPTPIA)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/DASHBOARDS-05050C?style=flat-square&labelColor=8B5CF6" />
+### Expense Tracker
+<img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=flat-square&labelColor=0D1117" />
 
-## 📈 FinBoard
-<sub>**FINANCIAL ANALYTICS**</sub>
+A **full-stack expense management app** with JWT authentication, category-wise spending analytics and charts. Complete CRUD over MongoDB with protected routes across the stack.
 
-Real-time financial data visualisation — live charts, filterable metrics and a fully typed data layer, built end to end in TypeScript on Next.js.
+<sub>`MongoDB` · `Express` · `React` · `Node.js`</sub>
 
-<img src="https://img.shields.io/badge/Next.js-05050C?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-05050C?style=flat-square&logo=typescript&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Charts-05050C?style=flat-square&logo=chartdotjs&logoColor=F472B6" />
-
-**[⟶ Code](https://github.com/Kritu1418/finboard)**
+[**View repository →**](https://github.com/Kritu1418/expense-tracker) &nbsp;·&nbsp; [**Live demo**](https://expense-tracker-eight-chi-45.vercel.app)
 
 </td>
 </tr>
@@ -193,142 +149,128 @@ Real-time financial data visualisation — live charts, filterable metrics and a
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FULL%20STACK-05050C?style=flat-square&labelColor=F472B6" />
+### Breathe ESG
+<img src="https://img.shields.io/badge/Dashboards-2DA44E?style=flat-square&labelColor=0D1117" />
 
-## 💰 Expense Tracker
-<sub>**MERN FINANCE APP**</sub>
+An **ESG reporting dashboard** presenting sustainability metrics in a structured, filterable interface for stakeholders tracking environmental and governance indicators.
 
-Full-stack expense manager with **JWT authentication**, category-wise spending analytics and charts. Complete CRUD over MongoDB with protected routes end to end.
+<sub>`JavaScript` · `React` · `Vercel`</sub>
 
-<img src="https://img.shields.io/badge/MongoDB-05050C?style=flat-square&logo=mongodb&logoColor=34D399" />
-<img src="https://img.shields.io/badge/Express-05050C?style=flat-square&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/React-05050C?style=flat-square&logo=react&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Node.js-05050C?style=flat-square&logo=nodedotjs&logoColor=A78BFA" />
-
-**[⟶ Code](https://github.com/Kritu1418/expense-tracker)** &nbsp;·&nbsp; **[Live](https://expense-tracker-eight-chi-45.vercel.app)**
+[**View repository →**](https://github.com/Kritu1418/breathe-esg) &nbsp;·&nbsp; [**Live demo**](https://breathe-esg-azure.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FULL%20STACK-05050C?style=flat-square&labelColor=F472B6" />
+### Retail Sales Management System
+<img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=flat-square&labelColor=0D1117" />
 
-## ✨ PROMPTPIA
-<sub>**AI PROMPT SHARING PLATFORM**</sub>
+An **inventory and sales management system** for retail workflows — product tracking, sales entry and reporting, built around a clean data model.
 
-Community platform to create, share, edit and discover AI prompts. **Google OAuth** through NextAuth securing **100%** of protected routes, with full CRUD on MongoDB.
+<sub>`JavaScript` · `Node.js`</sub>
 
-<img src="https://img.shields.io/badge/Next.js%2014-05050C?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MongoDB-05050C?style=flat-square&logo=mongodb&logoColor=34D399" />
-<img src="https://img.shields.io/badge/NextAuth-05050C?style=flat-square&logo=auth0&logoColor=F472B6" />
-
-**[⟶ Code](https://github.com/Kritu1418/PROMPTPIA)**
+[**View repository →**](https://github.com/Kritu1418/Retail-Sales-Management-System)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary>&nbsp;<b>📂 &nbsp;more things I've built</b></summary>
+<summary><b>&nbsp;More projects</b></summary>
 
 <br/>
 
-| | Project | What it does | Stack |
-|:--:|---|---|---|
-| 🧾 | [**Financial Doc Analyzer**](https://github.com/Kritu1418/financial-doc-analyzer) | AI-powered analysis and extraction from financial documents | `Python` `AI/ML` |
-| 🚗 | [**Car Listing Service**](https://github.com/Kritu1418/Car-Listing-Service) | Car listing & browsing platform with search and filters | `JavaScript` `Node.js` |
-| 🏪 | [**Retail Sales Management**](https://github.com/Kritu1418/Retail-Sales-Management-System) | Inventory and sales management for retail workflows | `JavaScript` |
-| 🌱 | [**Breathe ESG**](https://github.com/Kritu1418/breathe-esg) | ESG reporting & sustainability metrics dashboard | `JavaScript` |
+| Project | Description | Tech |
+|---|---|---|
+| [**Car Listing Service**](https://github.com/Kritu1418/Car-Listing-Service) | Car listing and browsing platform with search and filtering | `JavaScript` `Node.js` |
+
+<sub>All 27 repositories: [github.com/Kritu1418?tab=repositories](https://github.com/Kritu1418?tab=repositories)</sub>
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" />
+---
 
-<!-- ══════════════════ STACK ══════════════════ -->
-
-### `04` &nbsp;stack
+## Tech Stack
 
 <table>
-<tr><td width="150" valign="middle"><b><code>languages</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" height="44" /></td></tr>
-
-<tr><td valign="middle"><b><code>frontend</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark" height="44" /></td></tr>
-
-<tr><td valign="middle"><b><code>backend · db</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" height="44" /></td></tr>
-
-<tr><td valign="middle"><b><code>tools · cloud</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,aws,gcp,vercel,postman,vscode&theme=dark" height="44" /></td></tr>
-
-<tr><td valign="middle"><b><code>ai · llm</code></b></td>
+<tr>
+<td width="160" valign="middle"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" height="40" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark" height="40" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Backend & Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" height="40" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Tools & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,aws,gcp,vercel,postman,vscode&theme=dark" height="40" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>AI & LLM</b></td>
 <td>
-<img src="https://img.shields.io/badge/OpenAI-05050C?style=for-the-badge&logo=openai&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Groq-05050C?style=for-the-badge&logo=lightning&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/Gemini-05050C?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Claude-05050C?style=for-the-badge&logo=anthropic&logoColor=8B5CF6" />
-</td></tr>
+<img src="https://img.shields.io/badge/OpenAI-24292F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-24292F?style=for-the-badge&logo=lightning&logoColor=F55036" />
+<img src="https://img.shields.io/badge/Gemini-24292F?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+<img src="https://img.shields.io/badge/Claude-24292F?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+</td>
+</tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" />
+---
 
-<!-- ══════════════════ ACHIEVEMENTS ══════════════════ -->
+## Achievements
 
-### `05` &nbsp;achievements
+| | Achievement | Detail |
+|:--:|---|---|
+| 🥇 | **Top 5 Finalist — Google CodeClash** | Selected out of 150+ competing teams |
+| 🎯 | **Top 10 — GeeksforGeeks Hackathon** | Among 6000+ participants |
+| ⚡ | **Top 20 — Summer Hack 1.0** | Among 1000+ participants |
+| 🎓 | **EPAM Scholar** | Structured training in software development best practices |
+| 💻 | **1466 peak rating on LeetCode** | 650+ DSA problems solved |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-| 🥇 | 🎯 | ⚡ | 🎓 | 💻 |
-|:--:|:--:|:--:|:--:|:--:|
-| **Top 5 Finalist** | **Top 10** | **Top 20** | **EPAM Scholar** | **1466 peak** |
-| Google CodeClash | GeeksforGeeks Hackathon | Summer Hack 1.0 | Dev best practices | LeetCode rating |
-| <sub>out of 150+ teams</sub> | <sub>among 6000+</sub> | <sub>among 1000+</sub> | <sub>structured training</sub> | <sub>650+ problems</sub> |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kritu1418&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritu1418&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Kritu1418&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kritu1418&bg_color=0D1117&color=C9D1D9&line=1F6FEB&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+---
 
-<!-- ══════════════════ STATS ══════════════════ -->
-
-### `06` &nbsp;stats
+## Contact
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kritu1418&show_icons=true&hide_border=true&bg_color=05050C&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5F5&ring_color=F472B6&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritu1418&layout=compact&hide_border=true&bg_color=05050C&title_color=22D3EE&text_color=CBD5F5&langs_count=8" />
+Open to Software Engineer roles, freelance work and interesting collaborations.
+The fastest way to reach me is email.
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Kritu1418&hide_border=true&background=05050C&stroke=8B5CF6&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=CBD5F5&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kritu1418&bg_color=05050C&color=CBD5F5&line=22D3EE&point=F472B6&area_color=8B5CF6&area=true&hide_border=true" />
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<!-- ══════════════════ CONTACT ══════════════════ -->
-
-<div align="center">
-
-### `07` &nbsp;let's build something
-
-<sub>Open to Software Engineer roles, freelance work and interesting collaborations.</sub>
-
-<br/><br/>
+<br/>
 
 <a href="mailto:jhakritika957@gmail.com">
-  <img src="https://img.shields.io/badge/jhakritika957@gmail.com-05050C?style=for-the-badge&labelColor=8B5CF6&color=05050C&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/jhakritika957@gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kritika-jha/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://visionary-malabi-08c5dd.netlify.app/">
-  <img src="https://img.shields.io/badge/see%20the%203D%20portfolio-05050C?style=for-the-badge&labelColor=22D3EE&color=05050C&logo=googlechrome&logoColor=05050C" />
+  <img src="https://img.shields.io/badge/View%20Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<sub><i>Code it. Ship it. Improve it.</i></sub>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,40:15305C,100:0D1117&height=90&section=footer&text=Code%20it.%20Ship%20it.%20Improve%20it.&fontSize=16&fontColor=FFFFFF&fontAlignY=58" />

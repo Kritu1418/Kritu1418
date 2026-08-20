@@ -10,13 +10,13 @@
 <a href="https://visionary-malabi-08c5dd.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/kritika-jha/">
+<a href="https://www.linkedin.com/in/kritika-jha-4a9072265/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jhakritika957@gmail.com">
   <img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/Kritu1418/">
+<a href="https://leetcode.com/u/kritika_999/">
   <img src="https://img.shields.io/badge/LeetCode-24292F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 

@@ -1,11 +1,12 @@
-<!-- ═══════════════════ HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,60:15305C,100:1F6FEB&height=140&section=header&text=Kritika%20Jha&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20AI&descAlignY=64&descSize=15" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+developer;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;Building+AI+and+LLM-powered+products;650%2B+DSA+problems+solved" alt="Kritika Jha" />
+# Kritika Jha
 
-<br/><br/>
+**Software Engineer · Full-Stack & AI**
+
+<sub>React · Node.js · TypeScript · MongoDB · LLM Integration</sub>
+
+<br/>
 
 <a href="https://visionary-malabi-08c5dd.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -23,8 +24,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/650%2B-DSA%20problems%20solved-2DA44E?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/1466-LeetCode%20peak%20rating-58A6FF?style=flat-square&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=Kritu1418&style=flat-square&color=1F6FEB&labelColor=0D1117&label=Profile+views" />
+<img src="https://img.shields.io/badge/1466-LeetCode%20peak%20rating-1F6FEB?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineer%20roles-58A6FF?style=flat-square&labelColor=0D1117" />
 
 </div>
 
@@ -39,7 +40,7 @@ I build full-stack web applications end to end — responsive frontends in **Rea
 Comfortable across the whole stack: frontend, backend, database and deployment. Strong foundation in
 **DSA, OOP, DBMS and System Design**.
 
-**Currently exploring** — TypeScript at depth, System Design, and LLM tooling.
+**Currently exploring** — TypeScript in depth, System Design, and LLM tooling.
 
 ---
 
@@ -145,7 +146,7 @@ A **car listing and browsing platform** with search and filtering — listing ma
 ### 3D Developer Portfolio
 <img src="https://img.shields.io/badge/Frontend-1F6FEB?style=flat-square&labelColor=0D1117" />
 
-A **single-page 3D portfolio** built with Three.js — custom GLSL shader animation, particle field and scroll-driven scene, with no framework overhead.
+A **single-page 3D portfolio** built with Three.js — custom GLSL shader animation, particle field and a scroll-driven scene, with no framework overhead.
 
 <sub>`Three.js` · `GLSL` · `Vanilla JS`</sub>
 
@@ -156,66 +157,66 @@ A **single-page 3D portfolio** built with Three.js — custom GLSL shader animat
 </table>
 
 <div align="center">
-<sub>All repositories: <a href="https://github.com/Kritu1418?tab=repositories">github.com/Kritu1418</a></sub>
+<sub>All repositories → <a href="https://github.com/Kritu1418?tab=repositories">github.com/Kritu1418</a></sub>
 </div>
 
 ---
 
 ## Tech Stack
 
-<table>
-<tr>
-<td width="170" valign="middle"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" height="40" /></td>
-</tr>
-<tr>
-<td valign="middle"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css&theme=dark" height="40" /></td>
-</tr>
-<tr>
-<td valign="middle"><b>Backend & Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" height="40" /></td>
-</tr>
-<tr>
-<td valign="middle"><b>Tools & Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,aws,gcp,vercel,postman,vscode&theme=dark" height="40" /></td>
-</tr>
-<tr>
-<td valign="middle"><b>AI & LLM</b></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI-24292F?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-24292F?style=for-the-badge&logo=lightning&logoColor=F55036" />
-<img src="https://img.shields.io/badge/Gemini-24292F?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
-<img src="https://img.shields.io/badge/Claude-24292F?style=for-the-badge&logo=anthropic&logoColor=D97757" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>Core CS</b></td>
-<td>
-<img src="https://img.shields.io/badge/DSA-0D1117?style=flat-square&labelColor=1F6FEB" />
+**Languages**
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+**Backend & Database**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+**AI & LLM**
+
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=flat-square" />
+
+**Tools & Cloud**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+
+**Core Computer Science**
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=flat-square&labelColor=1F6FEB" />
 <img src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&labelColor=1F6FEB" />
 <img src="https://img.shields.io/badge/DBMS-0D1117?style=flat-square&labelColor=1F6FEB" />
 <img src="https://img.shields.io/badge/Operating%20Systems-0D1117?style=flat-square&labelColor=1F6FEB" />
 <img src="https://img.shields.io/badge/Computer%20Networks-0D1117?style=flat-square&labelColor=1F6FEB" />
 <img src="https://img.shields.io/badge/System%20Design-0D1117?style=flat-square&labelColor=1F6FEB" />
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kritu1418&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritu1418&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kritu1418&bg_color=0D1117&color=C9D1D9&line=1F6FEB&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true" />
-
-</div>
 
 ---
 
@@ -235,6 +236,8 @@ The fastest way to reach me is email.
   <img src="https://img.shields.io/badge/View%20Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,40:15305C,100:0D1117&height=85&section=footer&text=Code%20it.%20Ship%20it.%20Improve%20it.&fontSize=16&fontColor=FFFFFF&fontAlignY=58" />
+<sub><i>Code it. Ship it. Improve it.</i></sub>
+
+</div>
